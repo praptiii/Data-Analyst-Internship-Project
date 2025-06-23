@@ -32,14 +32,14 @@ A project analyzing return patterns in e-commerce using Python, SQL, and Power B
 - **SQL/returns_by_month.csv**
   Output of the SQL query used in the line chart.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python (pandas, sklearn, imbalanced-learn)  
 - MySQL  
 - Power BI  
 - Google Colab
 
-## 📊 Highlights
+## Highlights
 
 - Built a return prediction model using Logistic Regression.  
 - Created a clean, interactive Power BI dashboard.  
