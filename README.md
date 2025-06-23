@@ -23,13 +23,13 @@ A project analyzing return patterns in e-commerce using Python, SQL, and Power B
 - **return_summary.csv**  
   Aggregated return data by product and customer attributes.
 
-- **full_ecommerce_data_cleaned.csv**
+- **full_ecommerce_data_cleaned.csv**  
   Cleaned dataset used for SQL and Power BI analysis.
 
-- **SQL/return_analysis.sql**
+- **SQL/return_analysis.sql**  
   SQL code to generate return trend data for line chart.
 
-- **SQL/returns_by_month.csv**
+- **SQL/returns_by_month.csv**  
   Output of the SQL query used in the line chart.
 
 ## Tools Used
